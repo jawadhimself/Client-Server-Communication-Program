@@ -3,7 +3,7 @@
 Project Overview
 This project implements a TCP client-server application in Java. The client sends a character and a string to the server, which processes the inputs by counting the occurrences of the character in the string. The server then returns the count to the client. The system supports case-insensitive matching by converting both the input string and the character to lowercase before processing.
 
-Key Features
+# Key Features
 
 -TCP Communication: Demonstrates basic TCP socket programming for client-server interaction.
 
