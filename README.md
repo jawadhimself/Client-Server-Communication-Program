@@ -1,1 +1,3 @@
 # Client-Server-Communication-Program
+
+In this project, I developed a TCP client-server application using java where the client sends a character and a string to the server. The server processes the inputs by counting the number of occurrences of the character in the string and then sends the result back to the client. The system ensures case-insensitive character matching by converting both the input string and the search character to lowercase. This project helps in understanding TCP communication, client-server architecture, and socket programming in Java. The client and server are designed to handle basic input and error checking, ensuring the program runs smoothly even with invalid input.
