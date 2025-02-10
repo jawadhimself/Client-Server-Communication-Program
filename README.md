@@ -13,7 +13,7 @@ This project implements a TCP client-server application in Java. The client send
 
 -Modular Design: Separates client and server logic for clarity and maintainability.
 
-Learning Outcomes
+# Learning Outcomes
 This project provides hands-on experience with:
 
 -TCP/IP communication protocols.
@@ -24,7 +24,7 @@ This project provides hands-on experience with:
 
 -Input validation and error handling.
 
-Usage
+# Usage
 
 -Clone the repository.
 
