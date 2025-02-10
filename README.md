@@ -38,9 +38,11 @@ This project provides hands-on experience with:
 
 # Sample output
 From Server side:
+
 ![image](https://github.com/user-attachments/assets/92b91ea3-910b-4ee4-ac76-da82a620ce69)
 
 
 From Client side:
+
 ![image](https://github.com/user-attachments/assets/314396a2-2dd9-492c-a1c5-0f80bcf2dd65)
 
